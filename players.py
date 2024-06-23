@@ -1,3 +1,4 @@
+# This will show the paddles for each player
 import pygame
 
 GREEN = (0, 255, 102)

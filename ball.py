@@ -1,3 +1,4 @@
+# This shows the ball and gives it its speed
 import pygame
 
 GREEN = (0, 255, 102)
